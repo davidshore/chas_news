@@ -28,7 +28,7 @@ Er nyhetssida ska inkludera:
 ### Inlämning av Projektet
 
 - **Deadline**: Ert projekt ska presenteras för klassen **tisdagen den 27:e februari**.
-- **Presentation**: Var beredd att visa upp er webbplats, framhäva de funktioner ni har implementerat och diskutera eventuella utmaningar ni stött på och hur ni övervunnit dem.
+- **Presentation**: Var beredd att visa upp er webbplats, framhäva de funktioner ni har implementerat och diskutera eventuella utmaningar ni stött på och hur ni övervunnit dem. Det behövs ingen powerpoint.
 
 ### Komma Igång
 
