@@ -8,7 +8,7 @@ Er nyhetssida ska inkludera:
 
 - En **huvudsida** som visar huvudnyheter.
 - **Kategorisidor** för olika nyhetstyper såsom sport, internationella nyheter osv. Dessa sidor ska vara tillgängliga genom navigeringslänkar på er webbplats.
-- Individuella **artikelsidor** som presenterar innehållet i en nyhetsartikel när en användare klickar på en artikelöversikt. Tyvärr get inte nyhetsapier tillgång till hela texten av artikeln, så ni får nöja er med det som finns.
+- Individuella **artikelsidor** som presenterar innehållet i en nyhetsartikel när en användare klickar på en artikelöversikt. Tyvärr ger inte nyhetsapier tillgång till hela texten av artikeln, så ni får nöja er med det som finns.
 - Möjligheten att **bokmärka artiklar**, vilka sedan ska vara tillgängliga på en sida för **sparade artiklar**.
 
 ### Tekniska Krav
