@@ -16,7 +16,7 @@ Er nyhetssida ska inkludera:
 1. **Next.js**: Ert projekt ska byggas med Next.js för att dra nytta av dess server-side rendering och filbaserade routing.
 2. **Global state**: Använd Redux Toolkit eller Context API för att hantera global state. Detta använder ni för att hantera bokmärkta artiklar.
 3. **Externt API**: Hämta nyheter från [https://newsdata.io/](https://newsdata.io/) eller ett annat nyhets-API efter eget val. Ni får kopiera svar och spara dem som JSON-filer för att undvika att överskrida gränsen för API:ets gratisversion med 200 förfrågningar per dag.
-4. **GitHub-repositorium**: Arbeta tillsammans med hjälp av ett gemensamt GitHub-repo. Se till att alla medlemmar har åtkomst och bidrar till kodbasen.
+4. **GitHub-repo**: Arbeta tillsammans med hjälp av ett gemensamt GitHub-repo. Se till att alla medlemmar har åtkomst och bidrar till kodbasen.
 
 ### Frivilliga Funktioner (Extra Uppgifter)
 
