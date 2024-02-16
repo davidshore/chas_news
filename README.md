@@ -21,7 +21,7 @@ Er nyhetssida ska inkludera:
 ### Frivilliga Funktioner (Extra Uppgifter)
 
 - Implementera en layout med två kolumner på huvud- och kategorisidorna, där den högra, smalare kolumnen t.ex. innehåller textlänkar till de senaste nyhetsartiklarna.
-- Lägg till en flöde av ytterligare artiklar längst ner på varje enskild artikelsida för att uppmuntra till ytterligare läsning.
+- Lägg till ett flöde av ytterligare artiklar längst ner på varje enskild artikelsida för att uppmuntra till ytterligare läsning.
 - Använd local storage för att spara och hämta användarens bokmärkta artiklar. Se till att bokmärkena är tillgängliga även efter att webbläsaren har stängts och öppnats igen.
 - Använd er av en scrape-funktion för att hämta hela arikelns innehåll från länken till den riktiga artikeln på internet.
 
